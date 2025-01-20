@@ -9,7 +9,7 @@ import certificate3 from "../assets/img/certificates/tcs.jpg";
 import certificate4 from "../assets/img/certificates/datascience.jpg";
 import certificate5 from "../assets/img/certificates/python.png";
 import certificate6 from "../assets/img/certificates/Backend.jpg";
-import certificate7 from "../assets/img/certificates/Frontend.jpg";
+import certificate7 from "../assets/img/certificates/FrontEnd.jpg";
 import certificate8 from "../assets/img/certificates/Fsd1.jpg";
 import certificate9 from "../assets/img/certificates/FSD.jpg";
 import certificate10 from "../assets/img/certificates/Git.jpg";
